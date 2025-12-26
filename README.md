@@ -15,6 +15,9 @@ The dataset contains transactional information such as:
 * Invoice date
 * Quantity purchased
 * Unit price
+
+The dataset is publicly available on Kaggle:
+https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
 ## Approach
 1. Data Cleaning
 * Removed records with missing customer IDs
